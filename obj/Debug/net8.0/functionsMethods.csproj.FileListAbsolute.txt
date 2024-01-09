@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.sourcelink.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\bin\Debug\net8.0\functionsMethods.exe
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\bin\Debug\net8.0\functionsMethods.deps.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\bin\Debug\net8.0\functionsMethods.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\bin\Debug\net8.0\functionsMethods.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\bin\Debug\net8.0\functionsMethods.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\refint\functionsMethods.dll
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.pdb
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\functionsMethods.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C#YoutubeDZZ\functionsMethods\obj\Debug\net8.0\ref\functionsMethods.dll
