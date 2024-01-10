@@ -18,33 +18,39 @@
 
 internal class Program
 {
+    static int MyFindIndex (int value, int [] array)
+        {
+            
+            for (int i = 0; i < array.Length; i++)
+            {
+                
+                if(array[i] == value)
+                {
+                    
+                    return i;
+    
+                }
+               
+            }
+
+            return -1;
+        }
     private static void Main(string[] args)
     {
-        static int MyFindIndex(int value, int[] Array)
-        {
-            for (int i = 0; i < Array.Length; i++)
-            {
-                switch(Array[i])
-                {
-                    case value:
-                    return i;
-                    break;
-                    default:
-                    System.Console.WriteLine("There is no such a elemnt");
-                    break;
-                }
-            }
-        }
+        
         Console.WriteLine("Enter the size of the Array");
         int size = Convert.ToInt32(Console.ReadLine());
         int[] myArray = new int[size];
         for (int i = 0; i < myArray.Length; i++)
         {
             Console.WriteLine($"Enter the element {i + 1}");
-            myArray[i] = Convert.ToInt32(Console.WriteLine());
+            myArray[i] = Convert.ToInt32(Console.ReadLine());
         }
-        System.Console.WriteLine("Enter the element you want to find");
-        int value = int.Parse(Console.ReadLine());
-        WriteLine(MyFindIndex(value, myArray));
+        Console.WriteLine("Enter the element you want to find");
+        int value = Convert.ToInt32(Console.ReadLine());
+        int index = MyFindIndex(value , myArray);
+        Console.WriteLine(index);
+         
     }
+    
 }
